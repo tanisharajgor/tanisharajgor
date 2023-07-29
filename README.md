@@ -13,7 +13,11 @@ Currently, I’m working as a Data Science Intern at FM Global and a Junior Deve
 <summary>More about me! 👩🏻‍💻</summary>
 
 
-`Favorite food: 🍜`
+```
+Favorite food: 🍜
+My interests: 🪐🎧
+I play: 🎾
+```
 
 <p><a href="#" style="color: blue;" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue';">Hover over me</a> to see the color change.</p>
 
