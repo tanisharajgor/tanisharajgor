@@ -8,19 +8,14 @@ I aspire to leverage analytical/statistical skills in Machine Learning and Artif
 
 Currently, I’m working as a Data Science Intern at FM Global and a Junior Developer for the Center of Design.
 
-
-
-
-
-Any Markdown within the <details> block will be collapsed until the reader clicks  to expand the details.
-
-Within the <details> block, use the <summary> tag to let readers know what is inside. The label appears to the right of .
-
 <details>
 
 <summary>More about me! 👩🏻‍💻</summary>
 
-Fun Things!
+
+`Favorite food: 🍜`
+
+<p><a href="#" style="color: blue;" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue';">Hover over me</a> to see the color change.</p>
 
 <table>
   <tr>
@@ -30,6 +25,7 @@ Fun Things!
 </table>
 
 </details>
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)
 
