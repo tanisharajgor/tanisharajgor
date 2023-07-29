@@ -1,4 +1,4 @@
-![duckie](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlpcWk4NnhiaW01M3BrcG5xb3Nhdnl3N3A5eGVvcm44eDdneWRkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zap6W7a0uSBGHmzdNA/giphy.gif)
+![duckie](https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif)
 
 Hello there! 👋
 
