@@ -13,7 +13,7 @@ Fun Things!
 table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>Favorite IDE: </td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code">/td>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code">
   </tr>
 </table>
 
