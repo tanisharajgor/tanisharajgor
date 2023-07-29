@@ -10,14 +10,7 @@ Currently, I’m working as a Data Science Intern at FM Global and a Junior Deve
 
 
 
-Organizing information with collapsed sections
-In this article
-Creating a collapsed section
-Further reading
-You can streamline your Markdown by creating a collapsed section with the <details> tag.
 
-Creating a collapsed section
-You can temporarily obscure sections of your Markdown by creating a collapsed section that the reader can choose to expand. For example, when you want to include technical details in an issue comment that may not be relevant or interesting to every reader, you can put those details in a collapsed section.
 
 Any Markdown within the <details> block will be collapsed until the reader clicks  to expand the details.
 
@@ -25,19 +18,7 @@ Within the <details> block, use the <summary> tag to let readers know what is in
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
+<summary>More about me! 👩🏻‍💻</summary>
 
 Fun Things!
 
@@ -47,6 +28,8 @@ Fun Things!
     <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code" width=""></td>
   </tr>
 </table>
+
+</details>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)
 
