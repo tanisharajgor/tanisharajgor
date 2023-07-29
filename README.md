@@ -1,4 +1,4 @@
-![image](https://github.com/tanisharajgor/tanisharajgor/assets/54627422/8d06ec95-3aa0-482d-92d2-a5269d4926d8.gif)
+![duckie](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlpcWk4NnhiaW01M3BrcG5xb3Nhdnl3N3A5eGVvcm44eDdneWRkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zap6W7a0uSBGHmzdNA/giphy.gif)
 
 Hello there! 👋
 
