@@ -55,8 +55,8 @@ I play: 🎾
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisharajgor"></img>
-
+<th><img src="https://streak-stats.demolab.com?user=tanisharajgor&theme=highcontrast" alt="GitHub Streak" style="width: 100%;"></th>
+  
 </details>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)
