@@ -1,3 +1,5 @@
+![image](https://github.com/tanisharajgor/tanisharajgor/assets/54627422/8d06ec95-3aa0-482d-92d2-a5269d4926d8)
+
 Hello there! 👋
 
 I'm Tanisha, a Data Science & Business Administration major at Northeastern University. Previously, I have developed solutions for Accenture and AI4ALL, as well as conducted deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention. 
