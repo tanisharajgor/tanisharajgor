@@ -10,14 +10,14 @@ Currently, I’m working as a Data Science Intern at FM Global and a Junior Deve
 
 Fun Things!
 
-table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+<table>
   <tr>
-    <td>Favorite IDE: </td>
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code">
+    <td>Favorite IDE:</td>
+    <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code" width=""></td>
   </tr>
 </table>
 
-Favorite IDE: ![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanisharajgor.tanisharajgor)
 
 ![https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white][https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white][https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white][https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white][https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white][https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white][https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
 
