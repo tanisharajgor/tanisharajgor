@@ -17,7 +17,7 @@ Fun Things!
   </tr>
 </table>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)
 
 ![https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white][https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white][https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white][https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white][https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white][https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white][https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
 
