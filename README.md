@@ -1,4 +1,4 @@
-![duckie](https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif =100x20)
+<img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif" alt="duckie" width="200"/>
 
 Hello there! 👋
 
