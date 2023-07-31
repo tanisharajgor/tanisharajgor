@@ -55,8 +55,6 @@ I play: 🎾
   </tr>
 </table>
 
-<th><img src="https://streak-stats.demolab.com?user=tanisharajgor&theme=highcontrast" alt="GitHub Streak" style="width: 100%;"></th>  
-
 I like to sing! Check out my covers: [🎤](https://www.bandlab.com/chimmyxchammy)
 </details>
 
