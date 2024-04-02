@@ -2,11 +2,11 @@
 
 Hello there! 👋
 
-I'm Tanisha, a Data Science & Business Administration major at Northeastern University. Previously, I have developed solutions for Accenture and AI4ALL, as well as conducted deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention. 
+I'm Tanisha, Data Science Student at Northeastern University, with a love for Machine Learning, Software Development, Mixed Reality, and Astronomy.
 
-I aspire to leverage analytical/statistical skills in Machine Learning and Artificial Intelligence to make systems more efficient, accessible, and innovative.
+Previously, I have developed solutions for Accenture, FM Global, Boston University, and the Center for Design, as well as conducted software engineering and deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention — focused on making systems more efficient, accessible, and innovative.
 
-Currently, I’m working as a Data Science Intern at FM Global and a Junior Developer for the Center of Design.
+I'm currently a Systems Software Developer for AerospaceNU and Northeastern Electric Racing, as well as a Discrete Mathematics Teaching Assistant.
 
 <details>
 <summary>More about me! 👩🏻‍💻</summary>
