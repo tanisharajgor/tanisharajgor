@@ -2,11 +2,11 @@
 
 Hello there! 👋
 
-I'm Tanisha, Data Science Student at Northeastern University, with a love for Machine Learning, Software Development, Mixed Reality, and Astronomy.
+I'm Tanisha, Computer Science Student at Northeastern University, with a love for Machine Learning, Software Development, Mixed Reality, and Astronomy.
 
-Previously, I have developed solutions for Accenture, FM Global, Boston University, and the Center for Design, as well as conducted software engineering and deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention — focused on making systems more efficient, accessible, and innovative.
+Previously, I have developed solutions for Fidelity, Accenture, FM Global, Boston University, and the Center for Design, as well as conducted software engineering and deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention — focused on making systems more efficient, accessible, and innovative.
 
-I'm currently a Systems Software Developer for AerospaceNU and Northeastern Electric Racing, as well as a Discrete Mathematics Teaching Assistant.
+I'm currently Data Engineering Intern at Fidelity and an incoming Cloud Software Engineering Intern for UKG (Ultimate Kronos Group). On campus, I'm Systems Software Developer for AerospaceNU and Northeastern Electric Racing, as well as a Database Design, and Object-Oriented Programming Teaching Assistant.
 
 <details>
 <summary>More about me! 👩🏻‍💻</summary>
