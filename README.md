@@ -6,7 +6,7 @@ I'm Tanisha, Computer Science Student at Northeastern University, with a love fo
 
 Previously, I have developed solutions for Fidelity, Accenture, FM Global, Boston University, and the Center for Design, as well as conducted software engineering and deep-learning focused research projects presented at MIT, Junior Humanities Science Symposium, and the National Henry Ford Invention Convention — focused on making systems more efficient, accessible, and innovative.
 
-I'm currently Data Engineering Intern at Fidelity and an incoming Cloud Software Engineering Intern for UKG (Ultimate Kronos Group). On campus, I'm a Systems Software Developer for AerospaceNU and Northeastern Electric Racing, as well as a Database Design and Object-Oriented Programming Teaching Assistant.
+This past summer + fall I was a Data Engineering Intern at Fidelity and a Cloud Software Engineering Intern for UKG (Ultimate Kronos Group). On campus, I'm a Systems Software Developer for AerospaceNU and Northeastern Electric Racing, as well as a Database Design and Object-Oriented Programming Teaching Assistant.
 
 <details>
 <summary>More about me! 👩🏻‍💻</summary>
