@@ -57,7 +57,7 @@ I play: 🎾
   </tr>
 </table>
 
-I like to sing! Check out my covers: [🎤](https://www.bandlab.com/chimmyxchammy)
+I like to sing too!
 </details>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftanisharajgor&label=Visitors%20Just%20Like%20You!%20%E2%9D%A4%EF%B8%8F&labelColor=%23181818&countColor=%23d9e3f0&style=flat)
